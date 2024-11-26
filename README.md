@@ -1,4 +1,4 @@
-# 📰 NewsPortal - Modern News Aggregator
+# 📰 NewsPortal -
 
 A modern, responsive news portal built with vanilla JavaScript, featuring real-time news updates, user authentication, and an eye-friendly reading mode.
 
